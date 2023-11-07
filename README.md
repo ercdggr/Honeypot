@@ -8,7 +8,7 @@ In this project, I will be setting up an Azure virtual machine with wide open ne
 <h2>Languages and Utilities Used</h2>
 
 - <b>PowerShell</b> 
-- <b></b>
+- <b>Microsoft Sentinel</b>
 
 <h2>Environments Used </h2>
 
